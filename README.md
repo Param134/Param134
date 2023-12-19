@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development, React, Javascript, Data structures, Algorithms and many more
 - 🌱 I’m currently learning Full Stack Web development and DSA
 - 📫 How to reach me:
-    Gmail: paramraval411@gmail.com
+    Gmail: paramraval411@gmail.com /
     LinkedIn: www.linkedin.com/in/param-raval-yp134
 
 <!---
